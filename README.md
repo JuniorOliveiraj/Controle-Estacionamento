@@ -44,6 +44,5 @@ Este projeto é uma aplicação de controle de estacionamento desenvolvida em C#
 ![Relatório Mensal](images/monthly-report.png)
 
 
-## Licença
-Este projeto está licenciado sob a [Nome da Licença].
+
 
