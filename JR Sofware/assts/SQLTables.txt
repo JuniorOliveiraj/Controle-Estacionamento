@@ -1,0 +1,24 @@
+Criar tabela de usuários
+--------------------------
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    users_C_name VARCHAR(45) NULL,
+    users_C_passwd VARCHAR(45) NULL,
+    users_C_register DATE NULL
+);
+
+
+criar tabela dos estacionamentos
+----------------------------------
+CREATE TABLE register_estacionamento (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    register_estacionamento_typeVeiculo INT,
+    register_estacionamento_placa VARCHAR(45) NULL,
+    register_estacionamento_chegada DATETIME NULL,
+    register_estacionamento_saida DATETIME NULL,
+    register_estacionamento_duracao TIME NULL,  
+    register_estacionamento_preco VARCHAR(45) NULL,
+    register_estacionamento_pago VARCHAR(45) NULL,
+    register_estacionamento_complet INT NULL
+);
