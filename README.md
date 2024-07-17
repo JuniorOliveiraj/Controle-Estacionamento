@@ -24,7 +24,7 @@ Este projeto é uma aplicação de controle de estacionamento desenvolvida em C#
    - MySQL Server
 
 2. **Configuração do Banco de Dados:**
-   - Importe o script SQL fornecido (`script.sql`) para criar as tabelas necessárias no MySQL.
+   - Importe o script SQL fornecido (`/assts/script.sql`) para criar as tabelas necessárias no MySQL.
 
 3. **Configuração do Projeto:**
    - Clone o repositório para a sua máquina local.
