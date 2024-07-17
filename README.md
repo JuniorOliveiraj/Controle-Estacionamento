@@ -4,7 +4,7 @@
 ![Dashboard Preview](https://raw.githubusercontent.com/JuniorOliveiraj/Controle-Estacionamento/main/JR%20Sofware/assts/GIT/interface%20dashboard.png)
 
 ## dados
-![Adionar dados ]([https://raw.githubusercontent.com/JuniorOliveiraj/Controle-Estacionamento/main/JR%20Sofware/assts/GIT/interface%20dashboard.png](https://raw.githubusercontent.com/JuniorOliveiraj/Controle-Estacionamento/main/JR%20Sofware/assts/GIT/add%20entrada.png)
+![Adicionar dados](https://raw.githubusercontent.com/JuniorOliveiraj/Controle-Estacionamento/main/JR%20Sofware/assts/GIT/add%20entrada.png))
 
 ## Descrição
 Este projeto é uma aplicação de controle de estacionamento desenvolvida em C# utilizando Windows Forms e MySQL. A aplicação permite o registro de entrada e saída de veículos, calculando o tempo de permanência e o valor a ser pago com base nas tarifas definidas para diferentes tipos de veículos. Além disso, gera relatórios mensais que incluem a soma dos valores arrecadados e a quantidade de veículos atendidos, apresentando esses dados em um gráfico para uma visualização clara.
