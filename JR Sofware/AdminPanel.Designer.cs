@@ -30,22 +30,24 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.GetUser = new System.Windows.Forms.Label();
+            this.DashboardButon = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.AdminAddNew = new System.Windows.Forms.Button();
             this.AdminAllRegisters = new System.Windows.Forms.Button();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.GetUser = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.dashboard1 = new JR_Sofware.Dashboard();
             this.addNew1 = new JR_Sofware.AddNew();
             this.allRegisters1 = new JR_Sofware.AllRegisters();
             this.addOutput1 = new JR_Sofware.AddOutput();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -53,6 +55,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.dashboard1);
             this.panel1.Controls.Add(this.addNew1);
             this.panel1.Controls.Add(this.allRegisters1);
             this.panel1.Controls.Add(this.panel2);
@@ -67,6 +70,7 @@
             // 
             this.panel2.BackColor = System.Drawing.Color.Transparent;
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.DashboardButon);
             this.panel2.Controls.Add(this.button1);
             this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.pictureBox3);
@@ -80,79 +84,15 @@
             this.panel2.Size = new System.Drawing.Size(231, 633);
             this.panel2.TabIndex = 0;
             // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.White;
-            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Image = global::JR_Sofware.Properties.Resources.gridicons__add_outline_1;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(22, 366);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(228, 46);
-            this.button1.TabIndex = 32;
-            this.button1.Text = "Add output";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(54, 570);
+            this.label2.Location = new System.Drawing.Point(44, 601);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(102, 17);
             this.label2.TabIndex = 31;
             this.label2.Text = "Ola como junior";
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::JR_Sofware.Properties.Resources.download;
-            this.pictureBox3.Location = new System.Drawing.Point(37, 448);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(142, 99);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 30;
-            this.pictureBox3.TabStop = false;
-            // 
-            // AdminAddNew
-            // 
-            this.AdminAddNew.BackColor = System.Drawing.Color.White;
-            this.AdminAddNew.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.AdminAddNew.FlatAppearance.BorderSize = 0;
-            this.AdminAddNew.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.AdminAddNew.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AdminAddNew.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.AdminAddNew.Image = global::JR_Sofware.Properties.Resources.gridicons__add_outline_1;
-            this.AdminAddNew.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.AdminAddNew.Location = new System.Drawing.Point(22, 314);
-            this.AdminAddNew.Name = "AdminAddNew";
-            this.AdminAddNew.Size = new System.Drawing.Size(228, 46);
-            this.AdminAddNew.TabIndex = 29;
-            this.AdminAddNew.Text = "Add entry";
-            this.AdminAddNew.UseVisualStyleBackColor = false;
-            this.AdminAddNew.Click += new System.EventHandler(this.AdminAddNew_Click);
-            // 
-            // AdminAllRegisters
-            // 
-            this.AdminAllRegisters.BackColor = System.Drawing.Color.White;
-            this.AdminAllRegisters.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.AdminAllRegisters.FlatAppearance.BorderSize = 0;
-            this.AdminAllRegisters.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.AdminAllRegisters.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AdminAllRegisters.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.AdminAllRegisters.Image = global::JR_Sofware.Properties.Resources.healthicons__register_book_outline_1;
-            this.AdminAllRegisters.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.AdminAllRegisters.Location = new System.Drawing.Point(22, 262);
-            this.AdminAllRegisters.Name = "AdminAllRegisters";
-            this.AdminAllRegisters.Size = new System.Drawing.Size(228, 46);
-            this.AdminAllRegisters.TabIndex = 28;
-            this.AdminAllRegisters.Text = "All resgiters ";
-            this.AdminAllRegisters.UseVisualStyleBackColor = false;
-            this.AdminAllRegisters.Click += new System.EventHandler(this.AdminAllRegisters_Click);
             // 
             // panel3
             // 
@@ -172,6 +112,88 @@
             this.GetUser.Size = new System.Drawing.Size(133, 20);
             this.GetUser.TabIndex = 2;
             this.GetUser.Text = "Junior de oliveira";
+            // 
+            // DashboardButon
+            // 
+            this.DashboardButon.BackColor = System.Drawing.Color.White;
+            this.DashboardButon.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.DashboardButon.FlatAppearance.BorderSize = 0;
+            this.DashboardButon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.DashboardButon.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DashboardButon.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.DashboardButon.Image = global::JR_Sofware.Properties.Resources.uim__chart_pie_1;
+            this.DashboardButon.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.DashboardButon.Location = new System.Drawing.Point(11, 240);
+            this.DashboardButon.Name = "DashboardButon";
+            this.DashboardButon.Size = new System.Drawing.Size(228, 68);
+            this.DashboardButon.TabIndex = 33;
+            this.DashboardButon.Text = "Dashboard";
+            this.DashboardButon.UseVisualStyleBackColor = false;
+            this.DashboardButon.Click += new System.EventHandler(this.DashboardButon_Click);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.White;
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button1.Image = global::JR_Sofware.Properties.Resources.gridicons__add_outline_1;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(11, 396);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(228, 68);
+            this.button1.TabIndex = 32;
+            this.button1.Text = "Add output";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::JR_Sofware.Properties.Resources.download;
+            this.pictureBox3.Location = new System.Drawing.Point(31, 497);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(142, 99);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 30;
+            this.pictureBox3.TabStop = false;
+            // 
+            // AdminAddNew
+            // 
+            this.AdminAddNew.BackColor = System.Drawing.Color.White;
+            this.AdminAddNew.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.AdminAddNew.FlatAppearance.BorderSize = 0;
+            this.AdminAddNew.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.AdminAddNew.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AdminAddNew.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.AdminAddNew.Image = global::JR_Sofware.Properties.Resources.gridicons__add_outline_1;
+            this.AdminAddNew.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.AdminAddNew.Location = new System.Drawing.Point(11, 344);
+            this.AdminAddNew.Name = "AdminAddNew";
+            this.AdminAddNew.Size = new System.Drawing.Size(228, 68);
+            this.AdminAddNew.TabIndex = 29;
+            this.AdminAddNew.Text = "Add entry";
+            this.AdminAddNew.UseVisualStyleBackColor = false;
+            this.AdminAddNew.Click += new System.EventHandler(this.AdminAddNew_Click);
+            // 
+            // AdminAllRegisters
+            // 
+            this.AdminAllRegisters.BackColor = System.Drawing.Color.White;
+            this.AdminAllRegisters.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.AdminAllRegisters.FlatAppearance.BorderSize = 0;
+            this.AdminAllRegisters.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.AdminAllRegisters.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.AdminAllRegisters.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.AdminAllRegisters.Image = global::JR_Sofware.Properties.Resources.healthicons__register_book_outline_1;
+            this.AdminAllRegisters.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.AdminAllRegisters.Location = new System.Drawing.Point(11, 292);
+            this.AdminAllRegisters.Name = "AdminAllRegisters";
+            this.AdminAllRegisters.Size = new System.Drawing.Size(228, 68);
+            this.AdminAllRegisters.TabIndex = 28;
+            this.AdminAllRegisters.Text = "All resgiters ";
+            this.AdminAllRegisters.UseVisualStyleBackColor = false;
+            this.AdminAllRegisters.Click += new System.EventHandler(this.AdminAllRegisters_Click);
             // 
             // pictureBox2
             // 
@@ -193,6 +215,15 @@
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
+            // dashboard1
+            // 
+            this.dashboard1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.dashboard1.Location = new System.Drawing.Point(237, 0);
+            this.dashboard1.Name = "dashboard1";
+            this.dashboard1.Size = new System.Drawing.Size(1219, 633);
+            this.dashboard1.TabIndex = 4;
+            this.dashboard1.Load += new System.EventHandler(this.dashboard1_Load);
+            // 
             // addNew1
             // 
             this.addNew1.Location = new System.Drawing.Point(226, 0);
@@ -209,6 +240,7 @@
             // 
             // addOutput1
             // 
+            this.addOutput1.BackColor = System.Drawing.Color.White;
             this.addOutput1.Location = new System.Drawing.Point(226, 0);
             this.addOutput1.Name = "addOutput1";
             this.addOutput1.Size = new System.Drawing.Size(1219, 627);
@@ -226,9 +258,9 @@
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -251,5 +283,7 @@
         private AllRegisters allRegisters1;
         private System.Windows.Forms.Button button1;
         private AddOutput addOutput1;
+        private Dashboard dashboard1;
+        private System.Windows.Forms.Button DashboardButon;
     }
 }

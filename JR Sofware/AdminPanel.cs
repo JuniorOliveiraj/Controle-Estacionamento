@@ -29,6 +29,7 @@ namespace JR_Sofware
             addNew1.Visible = false;
             allRegisters1.Visible = true;
             addOutput1.Visible = false;
+            dashboard1.Visible = false;
 
 
 
@@ -40,8 +41,9 @@ namespace JR_Sofware
             addNew1.Visible = true;
             allRegisters1.Visible = false;
             addOutput1.Visible = false;
+            dashboard1.Visible = false;
 
-           
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -49,6 +51,20 @@ namespace JR_Sofware
             addNew1.Visible = false;
             allRegisters1.Visible = false;
             addOutput1.Visible = true;
+            dashboard1.Visible = false;
+        }
+
+        private void DashboardButon_Click(object sender, EventArgs e)
+        {
+            addNew1.Visible = false;
+            allRegisters1.Visible = false;
+            addOutput1.Visible = false;
+            dashboard1.Visible = true;
+        }
+
+        private void dashboard1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

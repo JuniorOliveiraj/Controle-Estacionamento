@@ -46,3 +46,52 @@ C:\Users\junio\source\repos\JR Sofware\JR Sofware\obj\Debug\JR_Sofware.AdminPane
 C:\Users\junio\source\repos\JR Sofware\JR Sofware\obj\Debug\JR_Sofware.AddNew.resources
 C:\Users\junio\source\repos\JR Sofware\JR Sofware\obj\Debug\JR_Sofware.AllRegisters.resources
 C:\Users\junio\source\repos\JR Sofware\JR Sofware\obj\Debug\JR_Sofware.AddOutput.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\JR Sofware.exe.config
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\JR Sofware.exe
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\JR Sofware.pdb
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\Google.Protobuf.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\MySql.Data.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Buffers.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.IO.Pipelines.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Memory.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\ZstdSharp.dll
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\Google.Protobuf.pdb
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\Google.Protobuf.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\MySql.Data.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Buffers.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.IO.Pipelines.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Memory.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR Sofware.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.AddNew.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.AddOutput.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.AdminPanel.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.AllRegisters.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.Form1.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.Properties.Resources.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.Register.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR_Sofware.Dashboard.resources
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR Sofware.csproj.GenerateResource.cache
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR Sofware.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR Sofware.csproj.Up2Date
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR Sofware.exe
+C:\Users\junio\OneDrive\Documentos\GitHub\Controle-Estacionamento\JR Sofware\obj\Debug\JR Sofware.pdb
