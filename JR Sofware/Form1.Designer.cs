@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.formSinginGo = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.loginButton = new System.Windows.Forms.Button();
             this.loginShowPasswd = new System.Windows.Forms.CheckBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -38,10 +40,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.formSinginGo = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -67,6 +67,30 @@
             this.panel1.Size = new System.Drawing.Size(1019, 602);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // formSinginGo
+            // 
+            this.formSinginGo.AutoSize = true;
+            this.formSinginGo.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.formSinginGo.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.formSinginGo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.formSinginGo.Location = new System.Drawing.Point(740, 505);
+            this.formSinginGo.Name = "formSinginGo";
+            this.formSinginGo.Size = new System.Drawing.Size(78, 19);
+            this.formSinginGo.TabIndex = 29;
+            this.formSinginGo.Text = "Get started";
+            this.formSinginGo.Click += new System.EventHandler(this.formSinginGo_Click);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(586, 505);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(159, 19);
+            this.label6.TabIndex = 28;
+            this.label6.Text = "Don’t have an account? ";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // loginButton
             // 
@@ -154,9 +178,9 @@
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(491, 114);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(246, 28);
+            this.label2.Size = new System.Drawing.Size(267, 28);
             this.label2.TabIndex = 20;
-            this.label2.Text = "Sign in to JR Manager";
+            this.label2.Text = "Sign in to JR Dashboard";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // panel2
@@ -171,41 +195,6 @@
             this.panel2.TabIndex = 19;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(18, 152);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(281, 39);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Hi, Welcome Back";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(586, 505);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(159, 19);
-            this.label6.TabIndex = 28;
-            this.label6.Text = "Don’t have an account? ";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
-            // 
-            // formSinginGo
-            // 
-            this.formSinginGo.AutoSize = true;
-            this.formSinginGo.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.formSinginGo.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.formSinginGo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.formSinginGo.Location = new System.Drawing.Point(740, 505);
-            this.formSinginGo.Name = "formSinginGo";
-            this.formSinginGo.Size = new System.Drawing.Size(78, 19);
-            this.formSinginGo.TabIndex = 29;
-            this.formSinginGo.Text = "Get started";
-            this.formSinginGo.Click += new System.EventHandler(this.formSinginGo_Click);
-            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::JR_Sofware.Properties.Resources.illustration_login;
@@ -216,6 +205,17 @@
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(18, 152);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(281, 39);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Hi, Welcome Back";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
             // 
