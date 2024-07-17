@@ -123,6 +123,7 @@
     <Compile Include="AllRegisters.Designer.cs">
       <DependentUpon>AllRegisters.cs</DependentUpon>
     </Compile>
+    <Compile Include="ConectionSQL.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

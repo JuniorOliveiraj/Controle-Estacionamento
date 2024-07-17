@@ -14,7 +14,7 @@ namespace JR_Sofware
 {
     public partial class AllRegisters : UserControl
     {
-        MySqlConnection connect = new MySqlConnection(@"Server=100.64.64.223;Port=3000;Database=bd-oliveira;Uid=root;Pwd=Oliveira1012/0;");
+        MySqlConnection connect = new MySqlConnection(@"Server=local.juniorbelem.com;Port=3000;Database=bd-oliveira;Uid=root;Pwd=Oliveira1012/0;");
         private List<RegistersAll> registers;
         public AllRegisters()
         {

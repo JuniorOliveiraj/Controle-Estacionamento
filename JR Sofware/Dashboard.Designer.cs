@@ -103,6 +103,7 @@
             this.ReloadButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ReloadButton.TabIndex = 43;
             this.ReloadButton.TabStop = false;
+            this.ReloadButton.Click += new System.EventHandler(this.ReloadButton_Click);
             // 
             // label8
             // 
@@ -165,6 +166,7 @@
             this.chart1.Size = new System.Drawing.Size(994, 262);
             this.chart1.TabIndex = 26;
             this.chart1.Text = "chart1";
+            this.chart1.Click += new System.EventHandler(this.chart1_Click);
             // 
             // label4
             // 
@@ -209,11 +211,11 @@
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(245)))), ((int)(((byte)(234)))));
             this.label3.Font = new System.Drawing.Font("Microsoft YaHei UI", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(71)))), ((int)(((byte)(26)))));
-            this.label3.Location = new System.Drawing.Point(453, 145);
+            this.label3.Location = new System.Drawing.Point(471, 145);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(87, 64);
+            this.label3.Size = new System.Drawing.Size(57, 64);
             this.label3.TabIndex = 23;
-            this.label3.Text = "50";
+            this.label3.Text = "0";
             // 
             // label2
             // 

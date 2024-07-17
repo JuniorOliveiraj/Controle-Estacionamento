@@ -12,7 +12,7 @@ namespace JR_Sofware
 {
     public partial class Form1 : Form
     {
-        MySqlConnection connect = new MySqlConnection(@"Server=100.64.64.223;Port=3000;Database=bd-oliveira;Uid=root;Pwd=Oliveira1012/0;");
+        MySqlConnection connect = new MySqlConnection(@"Server=local.juniorbelem.com;Port=3000;Database=bd-oliveira;Uid=root;Pwd=Oliveira1012/0;");
         public Form1()
         {
             InitializeComponent();
@@ -32,10 +32,8 @@ namespace JR_Sofware
         {
             if(loginUsername.Text == "" || loginPasswd.Text == "")
             {
-                //MessageBox.Show("Complete todos os campos de login", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                AdminPanel adm = new AdminPanel();
-                adm.Show();
-                this.Hide();
+                MessageBox.Show("Complete todos os campos de login", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+              
                 return;
             }
             else

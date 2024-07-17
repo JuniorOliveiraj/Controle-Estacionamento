@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\jr sofware\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\allregisters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\addnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\addnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\addoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\addoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\jr sofware\\allregisters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\allregisters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\allregisters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\allregisters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|c:\\users\\junio\\onedrive\\documentos\\github\\controle-estacionamento\\jr sofware\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C31BA34-EAA6-4F0E-9E7B-A66154C6DD71}|JR Sofware\\JR Sofware.csproj|solutionrelative:jr sofware\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +42,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\Register.cs",
+              "RelativeDocumentMoniker": "JR Sofware\\Register.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\Register.cs",
+              "RelativeToolTip": "JR Sofware\\Register.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vw8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:02:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AllRegisters.cs",
               "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AllRegisters.cs",
               "RelativeDocumentMoniker": "JR Sofware\\AllRegisters.cs",
               "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AllRegisters.cs",
               "RelativeToolTip": "JR Sofware\\AllRegisters.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBEAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T02:06:04.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AllRegisters.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AllRegisters.cs",
-              "RelativeDocumentMoniker": "JR Sofware\\AllRegisters.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AllRegisters.cs [Design]",
-              "RelativeToolTip": "JR Sofware\\AllRegisters.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "AddOutput.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AddOutput.cs",
+              "RelativeDocumentMoniker": "JR Sofware\\AddOutput.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AddOutput.cs",
+              "RelativeToolTip": "JR Sofware\\AddOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T02:06:03.032Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-17T17:02:08.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\Form1.cs",
+              "RelativeDocumentMoniker": "JR Sofware\\Form1.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\Form1.cs",
+              "RelativeToolTip": "JR Sofware\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:58:53.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNew.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AddNew.cs",
+              "RelativeDocumentMoniker": "JR Sofware\\AddNew.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AddNew.cs",
+              "RelativeToolTip": "JR Sofware\\AddNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:47:22.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,47 +113,10 @@
               "RelativeDocumentMoniker": "JR Sofware\\Dashboard.cs",
               "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\Dashboard.cs",
               "RelativeToolTip": "JR Sofware\\Dashboard.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwDUAAABBAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAACTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T02:01:56.074Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\Dashboard.cs",
-              "RelativeDocumentMoniker": "JR Sofware\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\Dashboard.cs [Design]",
-              "RelativeToolTip": "JR Sofware\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T02:01:54.604Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminPanel.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AdminPanel.cs",
-              "RelativeDocumentMoniker": "JR Sofware\\AdminPanel.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AdminPanel.cs",
-              "RelativeToolTip": "JR Sofware\\AdminPanel.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAEwEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T02:01:42.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AdminPanel.cs",
-              "RelativeDocumentMoniker": "JR Sofware\\AdminPanel.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\Controle-Estacionamento\\JR Sofware\\AdminPanel.cs [Design]",
-              "RelativeToolTip": "JR Sofware\\AdminPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T00:48:34.966Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
