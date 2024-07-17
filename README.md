@@ -19,6 +19,13 @@ Este projeto é uma aplicação de controle de estacionamento desenvolvida em C#
 - MySQL (sistema de gerenciamento de banco de dados)
 
 ## Instalação e Configuração
+### Clonar o repositório
+
+Para clonar o repositório e todos os submódulos necessários, execute o seguinte comando:
+
+```sh
+git clone --recursive https://github.com/JuniorOliveiraj/Controle-Estacionamento.git
+```
 1. **Pré-requisitos:**
    - Visual Studio (ou outro IDE para desenvolvimento em C#)
    - MySQL Server
